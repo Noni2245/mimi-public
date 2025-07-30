@@ -49,15 +49,10 @@ Insults are stored in `commands/insult.json` as an array of strings.
 
 ---
 
-## How to Add More
-You can add more roasts, compliments, facts, or insults by editing their respective `.json` files in the `commands/` directory. Just make sure each file contains an array of strings.
-
----
-
 ## Example Usage
 
 ```
-!sus @Noni2245
+!sus @Monday_Riot
 !fact
 !roast @friend
 !complement @teammate
